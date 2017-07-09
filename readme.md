@@ -6,4 +6,4 @@ Each book chapter has its own notebook, named using the structure `Chapter nn.ip
 
 ### Books Covered
 
-[Python for Data Analysis (1st edition)](/data_science/python_for_data analysis/)
+[Python for Data Analysis (1st edition)](https://github.com/lukewrites/learning-log/data_science/python_for_data analysis/)
