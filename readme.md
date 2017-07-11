@@ -7,3 +7,9 @@ Each book chapter has its own notebook, named using the structure `Chapter nn.ip
 ### Books Covered
 
 [Python for Data Analysis (1st edition)](https://nbviewer.jupyter.org/github/lukewrites/Learning-Log/blob/master/data_science/python_for_data_analysis/Chapter00.ipynb)
+
+
+### Topics covered
+
+#### Web Scraping
+[Bellevue Leafs](https://github.com/lukewrites/Learning-Log/tree/master/web_scraping/playground) – tracking the price of used Nissan Leafs, and doing some data analysis.
